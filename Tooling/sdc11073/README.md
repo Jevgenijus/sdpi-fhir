@@ -8,3 +8,8 @@ The primary focus of the IHE DEV SDPi profiles are device-to-device plug-n-trust
  Project home - including overview background information - is at: [Gemini Project - Device Interoperability](https://confluence.hl7.org/pages/viewpage.action?pageId=66926431) 
 
 Visit [Gemini SDPi+FHIR Community Engagement](https://confluence.hl7.org/display/GP/Community+Engagement) to see how to connect with the various teams working on the project.
+
+# Development Environment
+
+* Python version > 3.9
+* Use sdc11073/ci/requirements.txt to install dependencies
