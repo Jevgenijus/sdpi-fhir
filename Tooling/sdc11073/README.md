@@ -11,5 +11,5 @@ Visit [Gemini SDPi+FHIR Community Engagement](https://confluence.hl7.org/display
 
 # Development Environment
 
-* Python version > 3.9
+* Python version >= 3.9
 * Use sdc11073/ci/requirements.txt to install dependencies
